@@ -63,16 +63,6 @@ The project is implemented using **My1sim85 Simulator** and **8085 Assembly Lang
 
 ---
 
-## 📂 Project Structure
-📁 microprocessor-8085-elevator
-┣ 📄 README.md
-┣ 📄 Elevator.asm # 8085 Assembly source code
-┣ 📄 Elevator.lst # Listing file
-┣ 📄 Simulation.png # Screenshot of simulation
-┗ 📄 Report.pdf # Detailed project documentation
-
----
-
 ## 🚀 How to Run
 1. Open the project in **My1sim85 simulator**.  
 2. Assemble and load `Elevator.asm` into the simulator.  
