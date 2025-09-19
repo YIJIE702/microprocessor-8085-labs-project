@@ -84,10 +84,6 @@ The project is implemented using **My1sim85 Simulator** and **8085 Assembly Lang
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE).  
 
----
-
-## 🙌 Acknowledgements
-- Developed as part of **Microprocessor System (8085) course project**.  
-- Thanks to course instructors and peers for guidance and collaboration.  
+These projects are for educational purposes under NMJ21704 - Microprocessor Systems coursework.
+You may modify and use this project for learning, but proper credit to the author is appreciated.
